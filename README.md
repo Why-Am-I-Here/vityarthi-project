@@ -20,8 +20,8 @@ To ensure all modules are functioning correctly, this project includes automated
 3. The terminal will output `OK` if all string manipulation logic is functioning as expected.
 
 # Screenshots
-* **Encryption Process:** `![Encryption](https://media.discordapp.net/attachments/1026868470870188042/1553837557681229904/image.png?ex=6abab37e&is=6ab961fe&hm=f3fe09d54a7aafdacb571e21770e67fa888363e411774d36d405790223d258dd&=&format=webp&quality=lossless)`
-* **Decryption Process:** `![Decryption](https://media.discordapp.net/attachments/1026868470870188042/1553837557681229904/image.png?ex=6abab37e&is=6ab961fe&hm=f3fe09d54a7aafdacb571e21770e67fa888363e411774d36d405790223d258dd&=&format=webp&quality=lossless)`
+* **Encryption Process:** `[Encryption](https://media.discordapp.net/attachments/1026868470870188042/1553837557681229904/image.png?ex=6abab37e&is=6ab961fe&hm=f3fe09d54a7aafdacb571e21770e67fa888363e411774d36d405790223d258dd&=&format=webp&quality=lossless)`
+* **Decryption Process:** `[Decryption](https://media.discordapp.net/attachments/1026868470870188042/1553837557681229904/image.png?ex=6abab37e&is=6ab961fe&hm=f3fe09d54a7aafdacb571e21770e67fa888363e411774d36d405790223d258dd&=&format=webp&quality=lossless)`
   
 # Note:
 - Only use the Encrypted text you get from the code inside the Decrypt option, or else you will face errors due to the string length constraints.
