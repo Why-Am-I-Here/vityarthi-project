@@ -1,4 +1,4 @@
-## VITYARTHI-PROJECT
+# Text Obfuscation
 Vityarthi project for BTech CSE Semester 1.
 Reg No. : 26BAI10949
 
