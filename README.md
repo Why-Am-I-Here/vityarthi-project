@@ -1,6 +1,9 @@
 # Text Obfuscation
 
-Vityarthi 26BAI10949 BTech CSE Sem 1 2022 Vityarthi is a BTech CSE Semester 1 project. This is registration number 26BAI10949.
+Text obfuscation takes your input string and randomizes it through various slicing techniques and makes it almost impossible to read without the built in decryption tool.
+Vityarthi project for BTech CSE Semester 1.
+Reg No. : 26BAI10949
+Name: Himanshu Gangwar
 
 ## Required Modules/Libraries:
 
@@ -20,7 +23,7 @@ cd vityarthi-project
 
 - Do place all your files in one directory so that the code can refer to different functions located in different files.
 - Users should initiate the file "terminal.py."
-- -If asked users can input 1 to encrypt the string or 2 to decrypt a string.
+- When asked users can input 1 to encrypt the string or 2 to decrypt a string.
 - The final encrypted or decrypted text will now be output by the program.
 
 ## Testing Instructions:
